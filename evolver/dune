@@ -1,5 +1,0 @@
-;; This declares the jean_gnome executable implemented by jean_gnome.ml
-(executable
-  (libraries core)
-  (name evolver))
-
